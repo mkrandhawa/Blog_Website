@@ -88,7 +88,7 @@ app.get("/compose", function(req, res){
 app.post("/compose", function(req, res){
   //post document using mongoose model
   const post = new Post ({
-    title:req.body.postTitle, //stores the content for the giben title
+    title:req.body.postTitle, //stores the content for the given title
     content:req.body.postBody //stores the content for the post body
   });
   //saving the document on the DB 
