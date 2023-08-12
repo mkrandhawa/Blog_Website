@@ -16,7 +16,7 @@ Welcome to the Blog Website project! This is a web application that allows users
 
 ## Getting Started
 
-1. Clone the repository using `git clone https://github.com/your-username/your-repo.git`.
+1. Clone the repository using `git clone <repo_link>`.
 2. Install the necessary dependencies using `npm install`.
 3. Set up your MongoDB database and configure your connection settings.
 4. Run the server using `npm start`.
