@@ -19,7 +19,7 @@ Welcome to the Blog Website project! This is a web application that allows users
 1. Clone the repository using `git clone <repo_link>`.
 2. Install the necessary dependencies using `npm install`.
 3. Set up your MongoDB database and configure your connection settings.
-4. Run the server using `npm start`.
+4. Run the server using `npm start` or `nodemon app.js`.
 5. Access the website in your browser at `http://localhost:3000`.
 
 ## Contributing
